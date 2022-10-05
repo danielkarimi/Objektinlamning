@@ -3,7 +3,7 @@ import java.util.ArrayList;
 public class MainVäxt {
 
     public static void main (String[] args) {
-        //Här skapas alla olika växter
+        
 
         Växter palm = new Palm (5, "Laura");
         Växter palm2 = new Palm(1,"Putte");
