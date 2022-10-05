@@ -1,6 +1,6 @@
 public abstract class Växter implements VäxterInterFace{
 
-    //Här ger jag ut variablar som är nödvändiga för inläsning av växt
+    
 
     private double längd;
     private String name;
@@ -13,7 +13,7 @@ public abstract class Växter implements VäxterInterFace{
         this.längd = längd;
         this.name = name;
 
-        // Sedan använder jag getters för att kunna kalla på de olika variablarna
+        
 
     }
 
